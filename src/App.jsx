@@ -22,6 +22,7 @@ const App = () => {
      <div className='btn_div'>
         <button onClick={first}>Incremnt</button>
         <button onClick={secnd}>Decremnt</button>
+        <div>ufaq</div>
      </div>
 
      </div>
